@@ -36,6 +36,10 @@ a {
   text-decoration:;
 }
 
+a:hover {
+  background-color: yellow;
+}
+
 .container {
   width: 500px;   /* This sets the width */
   margin: 0 auto; /* This automatically sets left/right margins */
