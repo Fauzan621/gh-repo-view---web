@@ -55,6 +55,7 @@ a:hover {
   background: #33658A;
   padding: 30px;
   border: 1px solid lightgrey;
+  box-shadow: 10px 5px 5px black;
 }
 
 .list-inline > li {
